@@ -1,2 +1,2 @@
-# ZPlot
+# zplot
 The plot package
