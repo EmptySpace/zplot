@@ -1,2 +1,4 @@
 # zplot
 The plot package
+
+/.\
